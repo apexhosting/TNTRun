@@ -1,0 +1,44 @@
+{
+  "8895209c-67d1-411a-9bd4-9118d33afa85": {
+    "level": "grass",
+    "xp": 0
+  },
+  "43015a4f-140e-474e-872f-f7b0b4d79313": {
+    "level": "grass",
+    "xp": 0
+  },
+  "1c57683f-c9e9-4eb7-b7f7-c9bcd1f5e49c": {
+    "level": "grass",
+    "xp": 0
+  },
+  "fea22ef0-3efd-463b-8d3f-cc0e543fa57c": {
+    "level": "grass",
+    "xp": 0
+  },
+  "85682217-c609-47a2-9fd9-8ae2408a7ac0": {
+    "level": "grass",
+    "xp": 0
+  },
+  "c0a68af6-e4ee-4b2b-b6bd-4287d97f0755": {
+    "level": "grass",
+    "xp": 0,
+    "hunting": {
+      "PLAYER": 1,
+      "total": 1
+    }
+  },
+  "58e04810-1da0-4e17-ba7f-f2c22e90047f": {
+    "level": "grass",
+    "xp": 0
+  },
+  "bee58727-2110-43a9-ba81-65bff80bedb3": {
+    "level": "grass",
+    "xp": 0
+  },
+  "server-total": {
+    "hunting": {
+      "PLAYER": 1,
+      "total": 1
+    }
+  }
+}
